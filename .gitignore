@@ -1,8 +1,8 @@
 # Eclipse / NuEclipse
 .metadata/
-.settings/
-.project
-.cproject
+#.settings/
+#.project
+#.cproject
 
 # Build output
 Debug/
