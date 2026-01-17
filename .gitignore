@@ -1,0 +1,22 @@
+# Eclipse / NuEclipse
+.metadata/
+.settings/
+.project
+.cproject
+
+# Build output
+Debug/
+Release/
+*.elf
+*.map
+*.siz
+*.lst
+*.o
+*.d
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
